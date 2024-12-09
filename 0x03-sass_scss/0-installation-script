@@ -1,0 +1,22 @@
+#why used to install SASS
+# Ensure Node.js is Installed
+
+  Verify Node.js is installed by running:
+
+    **node -v **
+
+    If not installed, download and install Node.js from https://nodejs.org/.
+
+# Install SASS Using npm
+
+    Open a terminal and run the following command to install SASS:
+
+    npm install sass -v 3.7.4
+
+# Verify Installation
+
+  Confirm that SASS is installed by checking its version:
+
+sass --version
+
+Ensure the output matches the version you installed.
